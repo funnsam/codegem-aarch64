@@ -4,9 +4,9 @@ version = "0.2.0"
 edition = "2021"
 license = "BSD-2-Clause"
 description = "AArch64 backend for Codegem"
-homepage = "funnsam.github.io/codegem/aarch"
-documentation = "funnsam.github.io/codegem/aarch"
-repoitory = "github.com/funnsam/codegem-aarch64"
+homepage = "https://funnsam.github.io/codegem/aarch"
+documentation = "https://funnsam.github.io/codegem/aarch"
+repoitory = "https://github.com/funnsam/codegem-aarch64"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
